@@ -1,1 +1,1 @@
-This is the project for nextjs starters
+This is the project for nextjs starters.
